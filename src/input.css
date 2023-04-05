@@ -1,6 +1,5 @@
 @tailwind base;
 @tailwind components;
-@import "xxxx.css";
 @tailwind utilities;
 
 body{
@@ -10,11 +9,9 @@ body{
     background-size: 800px;
 }
 
-@media(max-width:576px){
-    background-position: 50px -50px;
-    background-size: 500px;
 
-}
+
+
 
 /* hamburger*/
 .hambuger{
